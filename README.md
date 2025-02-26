@@ -33,7 +33,7 @@ These models were implemented using **Weka**, a powerful tool for data mining an
 
 ## **How to Run the Project**
 1. **Install Weka**: Download and install Weka.
-2. **Load the Dataset**: Open Weka and load the dataset file (`mobile_price_classification.arff` or the appropriate format).
+2. **Load the Dataset**: Open Weka and load the dataset file.[Link for Dataset](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 3. **Run the Models**:  
    - Select the classification algorithm (SVM or Decision Tree or logistic regression).
    - Choose the appropriate parameters and run the model to train and test it on the dataset.
