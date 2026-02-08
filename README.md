@@ -2,6 +2,8 @@
 
 ## **Objective**
 The objective of this project is to develop machine learning models that facilitate data-driven decision-making for classifying mobile prices. Primarily focused on predicting mobile price ranges based on device features, helping stakeholders align pricing with market expectations.Using a dataset of 2000 records and 21 attributes, the goal was to predict the price range of mobile phones based on their features such as battery power, camera quality, screen size, and more.
+<img width="1116" height="610" alt="image" src="https://github.com/user-attachments/assets/f0faaf18-1ffa-48a4-bd49-08c3081e105c" />
+
 
 ## **Dataset**
 - The dataset contains **2000 records** with **21 attributes**, including features such as:
@@ -21,6 +23,7 @@ The objective of this project is to develop machine learning models that facilit
 - **Support Vector Machine (SVM)**  
 - **Decision Tree**
 - **Logistic Regression**
+<img width="1352" height="688" alt="image" src="https://github.com/user-attachments/assets/2014b453-df7c-4c35-811c-cdef82bc2869" />
 
 These models were implemented using **Weka**, a powerful tool for data mining and machine learning.
 
