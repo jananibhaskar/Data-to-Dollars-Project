@@ -23,7 +23,6 @@ The objective of this project is to develop machine learning models that facilit
 - **Support Vector Machine (SVM)**  
 - **Decision Tree**
 - **Logistic Regression**
-<img width="1352" height="688" alt="image" src="https://github.com/user-attachments/assets/2014b453-df7c-4c35-811c-cdef82bc2869" />
 
 These models were implemented using **Weka**, a powerful tool for data mining and machine learning.
 
@@ -41,4 +40,5 @@ These models were implemented using **Weka**, a powerful tool for data mining an
    - Select the classification algorithm (SVM or Decision Tree or logistic regression).
    - Choose the appropriate parameters and run the model to train and test it on the dataset.
 4. **Evaluate the Models**: Analyze the results and performance metrics such as accuracy, precision, and recall.
+5. **Python Code**: Additional analysis and model implementation can be found in the Python scripts included with the project.
 
